@@ -1,0 +1,16 @@
+$mainFont:'Poppins', sans-serif;
+$titleFont: 'PT Serif', serif;
+
+html {
+    margin-top: 0;
+    box-sizing: border-box;
+    font-family: $mainFont;
+  }
+
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+
+
+

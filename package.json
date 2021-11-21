@@ -1,0 +1,23 @@
+{
+  "name": "my-team-page-master",
+  "version": "1.0.0",
+  "description": "<!-- Please update value in the {}  -->",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "sass --watch scss:assets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yiorgos7/my-team-page-master.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yiorgos7/my-team-page-master/issues"
+  },
+  "homepage": "https://github.com/yiorgos7/my-team-page-master#readme",
+  "devDependencies": {
+    "sass": "^1.43.4"
+  }
+}
