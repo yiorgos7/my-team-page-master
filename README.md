@@ -36,7 +36,7 @@
 
 ## Overview
 
-<a href="./screeshot.PNG">
+<a href="https://github.com/yiorgos7/my-team-page-master/blob/master/screenshot.PNG?raw=true">
       Screeshot
     </a>
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
