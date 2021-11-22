@@ -109,5 +109,14 @@ img {
     transform: translateY(0%);
   }
 }
+@media only screen and (max-width: 380px) {
+  .card4, .card6, .card2, .card5, .card6 {
+    transform: translateY(0%);
+  }
+
+  .album_container .card {
+    padding-bottom: 10px;
+  }
+}
 
 /*# sourceMappingURL=styles.css.map */
